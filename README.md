@@ -6,4 +6,4 @@
 ![street](https://github.com/user-attachments/assets/bd22a0e3-8cd1-4fff-95ef-5dbebfa19d77)
 
 标记后：\
-![Uploading street.jpg…]()
+![street](https://github.com/user-attachments/assets/6ea56bc3-2793-464c-a055-7108ed3ed60f)
